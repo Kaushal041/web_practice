@@ -14,6 +14,6 @@ let info = `
         <h2>ID:${id}</h2>
         <h2>Name:${sname}</h2>
         <h3>Age: ${age} yr old</h3>
-        <h3>Working/Student : ${isWorking ? "Working Profession":"Student"}
+        <h3>Working/Student : ${isWorking ? "Working Profession":"Student"}</h3>
 `
 document.write(info)
