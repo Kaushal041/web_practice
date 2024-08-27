@@ -20,21 +20,21 @@
 // document.write("ram");
 
 
-// //Function Expresstion
+//Function Expresstion
 // let day = function(){
     //     document.write("Have a nice day<br><br>")
     // }
     // day()
     // day()
     
-    // // Arrow function
+    // Arrow function
     // let msg =()=>{
         //     document.write("Happy Birthday India<br><br>")
         // }
         // msg()
     // msg()
     
-    // //iife function
+    //iife function
     // (function(){
         //     document.write("iife function")
         // }())
